@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3d3b3b;
+  }
+  
+.NavBar {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+.NavBar a {
+    float: left;
+    display: block;
+    color: silver;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.NavBar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+.active {
+    background-color: red;
+    color: #595756;
+  }
+  
+.NavBar .icon {
+    display: none;
+  }
+
+.NavBar.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+}
+.container1 h3{
+    color: black;
+    background-color:silver;
+    padding: 50px;
+    width: 950px;
+}
+img{
+    height:300px;
+    width:300px;
+    margin: 5px;
+    background-image: "file:///Users/jaredcandelaria/Desktop/aabb6500-50b4-48ca-be35-be09bf010b1e-1491527679420%20(2).png"
+}
+h4{
+    color:white;
+}
+h2{
+    color:black;
+    background-color: silver;
+    width: 250px;
+}
+section .family{
+    height: 3000px;
+}
+.Most{
+    background-color: #10ad05;
+}
+.Some{
+    background-color: #ffec41;
+}
+.None{
+    background-color: #d12d25;
+}
