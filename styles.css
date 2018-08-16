@@ -70,3 +70,12 @@ section .family{
 .None{
     background-color: #d12d25;
 }
+.col-md-12{
+    display: flex;
+    justify-content: center;
+}
+.myinfo{
+    background-color: white;
+    height: 750px;
+    width: 1400px;
+}
